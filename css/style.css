@@ -311,7 +311,7 @@ p {
     justify-content: center ;
     align-items:flex-start;
     min-height: 300px;
-    padding: 0 30px;
+    padding: 0 40px;
 }
 .banner__title {
     font-size: 30px;
@@ -322,6 +322,8 @@ p {
     font-size: 28px;
     text-align: left;
     font-weight: 800;
+    display: flex;
+    flex-direction: column;
 }
 strong {
     color: var(--color-accent);

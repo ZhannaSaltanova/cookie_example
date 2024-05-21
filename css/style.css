@@ -646,6 +646,11 @@ strong {
     border: 2px solid var(--color-light);
     
   }
+  th {
+    font-size: 20px;
+    font-weight: 700px;
+    padding: 10px 0;
+  }
   tr {
     background-color: rgba(146, 146, 146, 0.529); 
     border: 2px solid var(--color-light);

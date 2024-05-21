@@ -302,6 +302,7 @@ p {
 
 .banner__content img {
     max-width: 282px;
+    height: 94px;
     width: 100%;
 }
 .banner__slider {

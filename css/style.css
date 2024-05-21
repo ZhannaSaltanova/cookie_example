@@ -652,6 +652,7 @@ strong {
     font-weight: 700px;
     padding: 10px 0;
     border-radius: 10px 10px 10px 10px;
+    background-color: rgba(146, 146, 146, 0.197); 
   }
   tr {
     background-color: rgba(146, 146, 146, 0.197); 

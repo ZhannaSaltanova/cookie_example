@@ -314,11 +314,13 @@ p {
     padding: 0 40px;
 }
 .banner__title {
-    font-size: 30px;
+    font-size: 35px;
     text-align: left;
     font-weight: 800;
+    margin-bottom: 0;
 }
 .banner__desc {
+    margin-top: 0;
     font-size: 28px;
     text-align: left;
     font-weight: 800;
@@ -483,6 +485,7 @@ strong {
     .banner__desc {
         font-size: 20px;
     }
+    
 }
 
 /* slot */

@@ -308,7 +308,8 @@ p {
 .banner__slider {
     display: flex;
     flex-direction: column;
-    justify-content: center ;
+    justify-content: center;
+    padding-top: 30px;
     align-items:flex-start;
     min-height: 300px;
     padding: 0 40px;
@@ -321,11 +322,12 @@ p {
 }
 .banner__desc {
     margin-top: 0;
-    font-size: 28px;
+    font-size: 24px;
     text-align: left;
     font-weight: 800;
     display: flex;
     flex-direction: column;
+    color: var(--color-accent);
 }
 strong {
     color: var(--color-accent);
